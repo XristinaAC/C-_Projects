@@ -1,0 +1,1 @@
+Simple implementation of the Tic-tac-toe game using C++. It can be played with two players. 
