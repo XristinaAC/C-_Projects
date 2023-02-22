@@ -1,0 +1,1 @@
+C++ practice. Creation of my own STRING class.
